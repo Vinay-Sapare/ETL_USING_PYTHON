@@ -5,6 +5,9 @@ In this project, we will build an ETL (Extract, Transform, Load) pipeline using 
  ## Problem Statement
 Build a data pipeline to extract, process, and store the top 50 trending Telugu songs from the Spotify API. The pipeline should be capable of fetching the data, transforming it into a structured format, and storing it in multiple locations, including local storage, a database, AWS S3, and Azure Data Lake for further analysis.
 
+## Architecture
+![Architecture Diagram](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## Steps Involved
   - #### Integrating with Spotify API and Extracting Data:
     - Extract the unstructured data from Spotify's API using proper authentication methods for further processing.
