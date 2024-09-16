@@ -6,7 +6,7 @@ In this project, we will build an ETL (Extract, Transform, Load) pipeline using 
 Build a data pipeline to extract, process, and store the top 50 trending Telugu songs from the Spotify API. The pipeline should be capable of fetching the data, transforming it into a structured format, and storing it in multiple locations, including local storage, a database, AWS S3, and Azure Data Lake for further analysis.
 
 ## Architecture
-![Architecture Diagram](https://github.com/vinay-github-2024/ETL_USING_PYTHON/blob/main/etl_using_python%20architecture.png)
+![Architecture Diagram](https://github.com/vinay-github-2024/ETL_USING_PYTHON/blob/main/etl_using_python_architecture.png)
 
 ## Steps Involved
   - #### Integrating with Spotify API and Extracting Data:
