@@ -1,4 +1,4 @@
-# ETL_USING_PYTHON
+# ETL USING PYTHON
 ## Introduction
 In this project, we will build an ETL (Extract, Transform, Load) pipeline using the Spotify API. The pipeline will retrieve data from the Spotify API, transform it into the desired format, and load it into multiple storage locations, including local storage, a PostgreSQL database, and cloud services such as AWS S3 and Azure Data Lake.
 
